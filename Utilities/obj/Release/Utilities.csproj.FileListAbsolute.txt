@@ -1,0 +1,5 @@
+c:\users\bukhari\documents\visual studio 2015\Projects\Utilities\Utilities\bin\Release\Utilities.dll
+c:\users\bukhari\documents\visual studio 2015\Projects\Utilities\Utilities\bin\Release\Utilities.pdb
+c:\users\bukhari\documents\visual studio 2015\Projects\Utilities\Utilities\obj\Release\Utilities.csprojResolveAssemblyReference.cache
+c:\users\bukhari\documents\visual studio 2015\Projects\Utilities\Utilities\obj\Release\Utilities.dll
+c:\users\bukhari\documents\visual studio 2015\Projects\Utilities\Utilities\obj\Release\Utilities.pdb
